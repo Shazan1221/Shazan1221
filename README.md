@@ -1,4 +1,4 @@
-<img align="center" width="800" src="https://https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">
+<img align="center" width="800" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">
 
 <h1 align="center">Hello 👋, I'm Ahmmed Shahriar Shazan</h1>
 <h3 align="center">I am a highly passionate frontend developer from Rajshahi, Bangladesh.</h3>
