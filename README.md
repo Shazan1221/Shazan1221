@@ -1,6 +1,8 @@
+<img align="center" width="800" src="https://https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">
+
 <h1 align="center">Hello 👋, I'm Ahmmed Shahriar Shazan</h1>
 <h3 align="center">I am a highly passionate frontend developer from Rajshahi, Bangladesh.</h3>
-<img src="https://https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazan1221&label=Profile%20views&color=0e75b6&style=flat" alt="shazan1221" /> </p>
 
 - 🔭 I’m currently working on **FullStack Web Development**
