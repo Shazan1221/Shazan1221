@@ -1,21 +1,21 @@
 <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">
 
 <h1 align="center">Hello 👋, I'm Ahmmed Shahriar Shazan</h1>
-<h3 align="center">I am a highly passionate frontend developer from Rajshahi, Bangladesh.</h3>
+<h3 align="center">I am a highly passionate software developer from Rajshahi, Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazan1221&label=Profile%20views&color=0e75b6&style=flat" alt="shazan1221" /> </p>
 
-- 🔭 I’m currently working on **FullStack Web Development**
+- 🔭 I’m currently working on **Object Oriented Programming** 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
 - 📝 I regularly write script for Youtube channel [https://www.youtube.com/@FlashbackonYT](https://www.youtube.com/@FlashbackonYT)
 
-- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Video Editing, Script Writing**
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Ruby, Ruby on Rails, Video Editing, Script Writing**
 
 - 📫 How to reach me **ahmmedshahriarshazan@gmail.com**
 
-- ⚡ Fun fact **Hey there! I'm a Full Stack Web Developer who can learn new stuff faster than you can say "JavaScript." I thrive under pressure—deadlines? Bring 'em on! I stay on top of all the latest tech trends, so my skills are always sharp. Whether it's crafting a sleek front-end or nailing down the back-end logic, I've got it covered. I might be funny, but I'm serious about delivering top-notch web solutions. Ready to build something awesome? Let's do this! :rocket::computer:**
+- ⚡ Fun fact **Hey there! I'm a Software Developer who can learn new stuff very fast. I thrive under pressure—deadlines. Bring 'em on! I stay on top of all the latest tech trends, so my skills are always sharp. Whether it's crafting a sleek front-end or nailing down the back-end logic, I've got it covered. I might be funny, but I'm serious about delivering top-notch project solutions. Ready to build something awesome? Let's do this! :rocket::computer:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
