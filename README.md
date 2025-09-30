@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazan1221&label=Profile%20views&color=0e75b6&style=flat" alt="shazan1221" /> </p>
 
-- 🔭 I’m currently working on **Object Oriented Programming**
+- 🔭 I’m currently doing a thesis on **Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+- 👨‍💻 I'm also Employeed at FrameLabs Foundry as a General Manager.
 
-- 📝 I regularly write script for Youtube channel [https://www.youtube.com/@FlashbackonYT](https://www.youtube.com/@FlashbackonYT)
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Ruby, Ruby on Rails, Video Editing, Script Writing**
+- 📝 I regularly write script for Youtube channel [https://www.youtube.com/@VoyagerSpace](https://www.youtube.com/@VoyagerSpace)
+
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Python, Video Editing, Script Writing**
 
 - 📫 How to reach me **ahmmedshahriarshazan@gmail.com**
 
